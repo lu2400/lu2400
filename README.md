@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hello, my name is Lu! <br>I am a second year Computer Science student at the University of Florida, and I'm also pursuing a Mathematics minor.<br><br>I'm exploring different programming language uses right now!
+Hello, my name is Lu! <br>I am a third year Computer Science student at the University of Florida, and I'm also pursuing a Mathematics minor.<br><br> Hit me up on LinkedIn!
 
 
 ## 🌐 Socials:
